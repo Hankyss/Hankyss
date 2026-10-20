@@ -13,7 +13,7 @@
 <div align="center">
   <h2>Aspiring Machine Learning Engineer</h2>
   <p>
-    I am 16 years old. Self-taught dev specializing in ML and fullstack web development</strong>
+    I am 16 years old. Self-taught dev specializing in ML and fullstack web and app development</strong>
   </p>
 </div>
 
